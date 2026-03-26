@@ -1,0 +1,14 @@
+# Sanal Ortam Klasörleri (Asıl ağırlık yapanlar bunlardır)
+venv/
+.venv/
+env/
+.env
+
+# Python Önbellek (Cache) Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac veya Windows Sistem Dosyaları (Gereksiz kalabalık)
+.DS_Store
+Thumbs.db
